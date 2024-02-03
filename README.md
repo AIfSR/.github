@@ -1,0 +1,1 @@
+AI for Scientific Research (AIfSR) provides services to scientists both within and outside of NYU. Our focus is on exploring and developing novel ways of applying AI in natural sciences and developing customized Data Science solutions for research needs. The Research Division of AIfSR conducts both fundamental and applied research in machine learning and scientific computing.
